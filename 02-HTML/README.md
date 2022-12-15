@@ -5,22 +5,22 @@
 
 #1.-
 
-![Captura](\02-HTML\assets\imgCaptura1 "Captura")
+![Captura](assets\imgCaptura1 "Captura")
 
 #2.-
 
 ------------
 
-![Captura](\02-HTML\assets\img/Captura2 "Captura")
+![Captura](assets\img/Captura2 "Captura")
 
 #3.-
 
 ------------
-![Captura](\02-HTML\assets\img/Captura3 "Captura")
+![Captura](assets\img/Captura3 "Captura")
 
 4.-
 ------------
-![Captura](\02-HTML\assets\imgCaptura4 "Captura")
+![Captura](assets\imgCaptura4 "Captura")
 
 ###WEB
 [WEB DEL PROYECTO ](http://cake12.42web.io/index.html "WEB DEL PROYECTO ")
